@@ -1,5 +1,9 @@
 # Fundamentals
 
+<div style="text-align:center">
+  <img src='https://datascience.nih.gov/sites/default/files/ai-at-nih-900.png' width=800px>
+</div>
+
 Okay, you got a new job and are prontly asked to analyze the company dataset and get some cool insights.
 Once you get access to the dataset, it's important for you to understand the processes behind Data Science, such as following:
 
@@ -27,6 +31,10 @@ This is what a good data scientist does. Focus on it everytime you enroll into a
 
 **The importance of Analytical Thinking**
 
+<div style="justify-content:center">
+  <img src='https://w7.pngwing.com/pngs/352/684/png-transparent-thinking-man-question-mark-bow-down-the-man.png' height=180px>
+</div>
+
 Analytical thinking is the main skill of every data scientist. It's possible to learn how to think analytically by following these steps when making a decision (small or big ones):
 
 - Question about the reliability of sources;
@@ -34,3 +42,14 @@ Analytical thinking is the main skill of every data scientist. It's possible to 
 - Do **not** accept any thuth without questioning about it;
 - Think before doing;
 - Follow the scientific method in order to obtain valid data.
+
+**The Scientific Method**
+
+<img src='https://www.pngitem.com/pimgs/m/14-148226_science-kind-related-in-science-png-transparent-png.png' height=150px>
+
+- Observe a phenomenon
+- Elaborate a question
+- Build your hypothesis
+- Experiment
+- Analyze (accept/deny it as a fact)
+- Conclude
